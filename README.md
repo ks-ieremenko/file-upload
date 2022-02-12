@@ -2,6 +2,10 @@
 
 The goal of the project is to upload a file and write the file information to the database. This app is used together with user-sequelize-app (https://github.com/ks-ieremenko/user-sequelize-app).
 
+**Used technologies:** Express, MongoDB+Mongoose, Multer
+
+---
+
 * Install dependencies with `npm install`
 * Run the express server with `npm start`
 * Open your browser in `localhost:3001` and try the example REST endpoints.
@@ -16,4 +20,3 @@ The goal of the project is to upload a file and write the file information to th
 	  * `localhost:3000/user?uuid=some_id` (GET) - get user by id to check if uuid is admin's
 
 
-Used technologies: express, mongodb+mongoose, multer
