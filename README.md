@@ -7,7 +7,7 @@ The goal of the project is to upload a file and write the file information to th
 * Open your browser in `localhost:3001` and try the example REST endpoints.
 
 
-**!!! Uploading file and reading it's info from db is available only for admin role. !**
+**! Uploading file and reading it's info from db is available only for admin role. !**
 
   * Used endpoints
 	  * `localhost:3001/read` (GET) - read file info
